@@ -13,7 +13,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi ini
 1. Clone repositori ini ke komputer Anda:
 
    ```bash
-   https://github.com/BuatBelajar1290/Dicoding-Belajar-Membuat-Aplikasi-Back-End-untuk-Pemula.git
+   https://github.com/BuatBelajar1290/Dicoding-Belajar-BE-Pemula.git
    
 2. untuk memulainya, ketik :
 
